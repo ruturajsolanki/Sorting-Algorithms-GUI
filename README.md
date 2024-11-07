@@ -23,16 +23,16 @@ This Python application is a graphical tool that visualizes and analyzes various
 ## Screenshots
 
 ### Main Interface
-![Main Interface](path/to/main_interface_screenshot.png)
+![Main Interface](./Main%20Screen.png)
 
 ### Algorithm Code Viewer
-![Algorithm Code Viewer](path/to/code_viewer_screenshot.png)
+![Algorithm Display Screen](./Algorithm%20Display%20Screen.png)
 
 ## Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/sorting-algorithm-visualizer.git
+   git clone https://github.com/ruturajsolanki/Sorting-Algorithms-GUI.git
    ```
 
 2. **Install required packages**:
@@ -52,13 +52,6 @@ This Python application is a graphical tool that visualizes and analyzes various
 2. **Select Sorting Algorithm**: Choose an algorithm from the dropdown menu.
 3. **Start Sorting**: Press "Start Sorting" to visualize the process and see the results.
 4. **Save Results**: Once sorting is completed, you can save the sorted list and metrics to a file.
-
-## Project Structure
-
-- `main.py`: Main file to launch the application.
-- `algorithms.py`: Contains implementations of sorting algorithms.
-- `ui.py`: Code related to the graphical user interface.
-- `utils.py`: Utility functions for file handling and data processing.
 
 ## Sorting Algorithms Implemented
 
@@ -100,7 +93,6 @@ If you'd like to contribute to this project:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-name`).
 5. Create a Pull Request.
-
 
 ## Contact
 
